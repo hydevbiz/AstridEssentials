@@ -1,6 +1,6 @@
 # ✨ AstridEssentials 
 
-AstridEssentials is used for the AstridCloud server to connect with any plugin we choose. Right now, it integrates with the Casino plugin to add custom currency features. Future updates will include support for more plugins and extra features.
+AstridEssentials is a custom plugin for the AstridCloud server, designed to seamlessly integrate with any plugin we choose. 🔗 Currently, it hooks into the Casino plugin to enable custom currency features. Future updates will expand support for more plugins and additional features, all tailored specifically for AstridCloud.
 
 ## 🚀 Features 
 
